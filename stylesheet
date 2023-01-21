@@ -1,0 +1,105 @@
+body {
+}
+        .style0
+        {
+         background-image: url("../Pictures/Backimg.jpg");
+         background-color:aqua;
+        }
+        .style5
+        {
+            font-size: xx-large;
+            text-decoration: underline;
+            color: #33CCFF;
+        }
+        .style1
+        {
+            text-decoration: underline;
+        }
+        .style2
+        {
+            color: #0000FF;
+            font-size: x-large;
+        }
+        .style4
+        {
+            color: #FF0000;
+        }
+        .style6
+        {
+            text-decoration: underline;
+            font-size: x-large;
+        }
+        .style7
+        {
+            color: #000000;
+            font-size: x-large;
+        }
+        .style8
+        {
+            text-decoration: underline;
+            font-size: x-large;
+            color: #000000;
+        }
+        .style9
+        {
+            text-decoration: underline;
+            font-size: xx-large;
+            color: #3399FF;
+        }
+        .style10
+        {
+            color: #FF0000;
+            font-size: x-large;
+        }
+        .style20
+        {
+            color: #FF6600;
+            text-decoration: underline;
+        }
+        .style30
+        {
+            font-size: xx-large;
+            text-decoration: underline;
+            color: #3366FF;
+        }
+        .style40
+        {
+            font-size: xx-large;
+            text-decoration: underline;
+            color: #3366FF;
+        }
+        .style50
+        {
+            font-size: x-large;
+        }
+        .style60
+        {
+            text-decoration: underline;
+            font-size: large;
+            color: #009900;
+        }
+        .style70
+        {
+            font-size: x-large;
+            color: #0099CC;
+        }
+        .style71
+        {
+            color: #FF0000;
+            text-decoration: underline;
+        }
+        .style72
+        {
+            color: #0000FF;
+            text-decoration: underline;
+        }
+        .style73
+        {
+            color: #CC00CC;
+            text-decoration: underline;
+        }
+        .style74
+        {
+            color: #CC0099;
+            text-decoration: underline;
+        }
