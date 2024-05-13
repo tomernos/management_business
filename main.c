@@ -19,7 +19,7 @@ void addEmployer();
 void deleteEmployer();
 void orderItemsById();
 void searchItem();
-
+//test changes git
 
 // Items struct
 typedef struct Item {
@@ -28,7 +28,7 @@ typedef struct Item {
     float price;
     bool exist;
 }Item;
-
+//test
 //employer struct
 typedef struct Employer
 {
