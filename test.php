@@ -1,1 +1,1 @@
-this file content php functions
+this file content php structs
